@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class _1_ {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub 
 		Scanner sc = new Scanner(System.in);
 		int[] resultats = new int[6];
 		for(int i = 0; i < 6; i++) {

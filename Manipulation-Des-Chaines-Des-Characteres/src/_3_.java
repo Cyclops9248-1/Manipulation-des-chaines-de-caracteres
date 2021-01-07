@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class _3_ {
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub 
 		Scanner sc = new Scanner(System.in);
 		int lignes = sc.nextInt();
 		int[] nombreMessages = new int[lignes];
